@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+there%2C+I'm+A.Z.M.+Arif;A+JavaScript+enthusiast.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=400&height=70&lines=Hi+there%2C+I'm+A.Z.M.+Arif.;A+JavaScript+enthusiast.)](https://git.io/typing-svg)
 
 ## About Me:
 
