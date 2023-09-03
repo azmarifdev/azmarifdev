@@ -2,11 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+there%2C+I'm+A.Z.M.+Arif;A+JavaScript+enthusiast.)](https://git.io/typing-svg)
 
-# About Me:
+# <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path d="M12 2.5a5.5 5.5 0 0 1 3.096 10.047 9.005 9.005 0 0 1 5.9 8.181.75.75 0 1 1-1.499.044 7.5 7.5 0 0 0-14.993 0 .75.75 0 0 1-1.5-.045 9.005 9.005 0 0 1 5.9-8.18A5.5 5.5 0 0 1 12 2.5ZM8 8a4 4 0 1 0 8 0 4 4 0 0 0-8 0Z"></path></svg> About Me:
 
 I’m a Jr. Full Stack Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
 
-#
 
 # 💻 Languages-Frameworks-Tools:
 
@@ -16,13 +15,10 @@ I’m a Jr. Full Stack Web developer who is passionate about making error-free w
 
 </p>
 
-#
-
 ## 🌐 Socials:
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/azmarifdev) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/PM8SWkRBBn) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/azmarifdev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azmarifdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azmarifdev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@azmarifdev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/azmarifdev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@azmarifdev)
 
-#
 
 # 📊 GitHub Stats:
 
@@ -30,7 +26,7 @@ I’m a Jr. Full Stack Web developer who is passionate about making error-free w
 ![](https://github-readme-streak-stats.herokuapp.com/?user=azmarifdev&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azmarifdev&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-#
+# 
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![😘 ৫০০ শত ভালোবাসা নিয়ে অগ্রসর হতে চাই সাফল্যের শীর্ষে। ☺](https://ytcards.demolab.com/?id=fye_GEaTS2Q&title=%F0%9F%98%98+%E0%A7%AB%E0%A7%A6%E0%A7%A6+%E0%A6%B6%E0%A6%A4+%E0%A6%AD%E0%A6%BE%E0%A6%B2%E0%A7%8B%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%BE+%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87+%E0%A6%85%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A6%B0+%E0%A6%B9%E0%A6%A4%E0%A7%87+%E0%A6%9A%E0%A6%BE%E0%A6%87+%E0%A6%B8%E0%A6%BE%E0%A6%AB%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0+%E0%A6%B6%E0%A7%80%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A5%A4+%E2%98%BA&lang=en&timestamp=1603612811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=95 "😘 ৫০০ শত ভালোবাসা নিয়ে অগ্রসর হতে চাই সাফল্যের শীর্ষে। ☺")](https://www.youtube.com/watch?v=fye_GEaTS2Q)
