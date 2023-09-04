@@ -27,7 +27,6 @@ I’m a Jr. Full Stack Web developer who is passionate about making error-free w
     <a href="https://github.com/azmarifdev/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="azmarifdev's streak" src="https://streak-stats.demolab.com/?user=azmarifdev&theme=monokai-metallian&hide_border=true"/>
     </a>
-    
   <br/>
 <a href="https://github.com/azmarifdev/github-readme-activity-graph"><img alt="azmarifdev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=azmarifdev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
