@@ -39,5 +39,4 @@ I’m a Jr. Full Stack Web developer who is passionate about making error-free w
 
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
 
-
 </div>
