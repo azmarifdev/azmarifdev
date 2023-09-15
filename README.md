@@ -23,7 +23,7 @@ I’m a Jr. Full Stack Web developer who is passionate about making error-free w
 
 [![WakaTime Badge](https://wakatime.com/badge/user/d036a672-e5e7-4dd7-91b9-cc45a2811245.svg?style=for-the-badge)](https://wakatime.com/azmarifdev)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azmarifdev)](https://github.com/azmarifdev/github-readme-stats)
+[![WakaTime Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=azmarifdev&hide_title=true&theme=transparent&layout=compact&langs_count=12&range=all_time)](https://wakatime.com/azmarifdev)
 
 ## 📊 GitHub Profile Stats:
 
