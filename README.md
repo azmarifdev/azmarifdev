@@ -19,6 +19,11 @@ I’m a Jr. Full Stack Web developer who is passionate about making error-free w
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/azmarifdev) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/PM8SWkRBBn) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/azmarifdev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azmarifdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azmarifdev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@azmarifdev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/azmarifdev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@azmarifdev)
 
+## Coding Time:
+
+[![WakaTime Badge](https://wakatime.com/badge/user/bf8f53db-a04e-4a34-bf38-eb21bb1c5f66.svg?style=for-the-badge)](https://wakatime.com/azmarifdev)
+
+[![WakaTime Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=azmarifdev&hide_title=true&theme=transparent&layout=compact&langs_count=12&range=all_time)](https://wakatime.com/azmarifdev)
 
 ## 📊 GitHub Profile Stats:
 
