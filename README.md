@@ -25,6 +25,8 @@ I’m a Jr. Full Stack Web developer who is passionate about making error-free w
 
 [![WakaTime Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=azmarifdev&hide_title=true&theme=transparent&layout=compact&langs_count=12&range=all_time)](https://wakatime.com/azmarifdev)
 
+[![WakaTime Coding Time](src="https://wakatime.com/share/@azmarifdev/c051146d-7e34-4565-93cb-a3ef7235f2df.svg)]
+
 ## 📊 GitHub Profile Stats:
 
   <a href="https://github.com/azmarifdev/github-readme-stats"><img alt="A. Z. M. Arif's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=azmarifdev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
