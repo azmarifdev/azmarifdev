@@ -19,19 +19,24 @@ I’m a Jr. Full Stack Web developer who is passionate about making error-free w
 
 [![wakatime](https://wakatime.com/badge/user/d036a672-e5e7-4dd7-91b9-cc45a2811245.svg)](https://wakatime.com/@d036a672-e5e7-4dd7-91b9-cc45a2811245) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/PM8SWkRBBn) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/azmarifdev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azmarifdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azmarifdev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@azmarifdev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/azmarifdev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@azmarifdev)
 
-## Coding Activity:
 
-[![WakaTime Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=azmarifdev&hide_title=true&theme=transparent&layout=compact&langs_count=12&range=all_time)](https://wakatime.com/azmarifdev)
-  
-## 📊 GitHub Profile Stats:
+## 📊 Coding Time & Used Languages:
 
-  <a href="https://github.com/azmarifdev/github-readme-stats"><img alt="A. Z. M. Arif's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=azmarifdev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <a href="https://github.com/azmarifdev/github-readme-stats"><img alt="A. Z. M. Arif's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=azmarifdev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  </a><a href="https://github.com/azmarifdev/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="A. Z. M. Arif's streak" src="https://streak-stats.demolab.com/?user=azmarifdev&theme=monokai-metallian&hide_border=true"/>
-    </a>
-  <br/>
-<a href="https://github.com/azmarifdev/github-readme-activity-graph"><img alt="A. Z. M. Arif's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=azmarifdev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<div align="center">  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=azmarifdev&hide_title=true&theme=nightowl&layout=compact&langs_count=12&hide_border=true&range=all_time" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmarifdev&theme=nightowl&layout=compact&hide_border=true" />
+</div>
+
+## 📊 GitHub Stats & Streak:
+
+<div align="center">  
+  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=azmarifdev&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&hide_border=true" alt="A.Z.M. Arif's GitHub stats" /> 
+  <img width="49%" src="https://streak-stats.demolab.com/?user=azmarifdev&hide_border=true&theme=nightowl" />
+</div>
+
+## 📊 GitHub Contribution Graph:
+
+<a href="https://github.com/azmarifdev/github-readme-activity-graph"><img alt="A. Z. M. Arif's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=azmarifdev&theme=nightowl&hide_border=true" /></a>
 
 ## My Latest Videos:
 
