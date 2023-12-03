@@ -11,7 +11,7 @@ I’m a Jr. Full Stack Web developer who is passionate about making error-free w
 
 <p align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,expressjs,mongodb,mysql,nextjs,react,php,redux,graphql,prisma,postgres,jest,html,css,sass,tailwind,mui,bootstrap,windicss,threejs,git,github,netlify,vercel,firebase,figma,linux,docker&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,nodejs,react,nextjs,mongodb,wordpress,redux,expressjs,sass,tailwind,mui,bootstrap,git,github,firebase,figma,linux,docker&perline=10)](https://skillicons.dev)
 
 </p>
 
