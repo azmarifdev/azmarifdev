@@ -29,7 +29,7 @@ I’m a Jr. Full Stack Web developer who is passionate about making error-free w
 
 ## 📊 GitHub Stats & Streak:
 
-<div align="center">  
+<div align="center"> 
   <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=azmarifdev&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&hide_border=true" alt="A.Z.M. Arif's GitHub stats" />
   
   <img width="49%" src="https://streak-stats.demolab.com/?user=azmarifdev&hide_border=true&theme=nightowl" />
