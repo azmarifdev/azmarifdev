@@ -26,7 +26,7 @@ I’m a Jr. Full Stack Web developer who is passionate about making error-free w
   <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmarifdev&theme=nightowl&layout=compact&hide_border=true" />
 </div>
 
-## 📊 GitHub Stats & Streak:
+## 📊 GitHub Stats & Streak: 
 
 <div align="center"> 
   <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=azmarifdev&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&hide_border=true" alt="A.Z.M. Arif's GitHub stats" />
