@@ -41,7 +41,7 @@ I’m a Jr. Full Stack Web developer who is passionate about making error-free w
 ## My Latest Videos:
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Download and Install Node js Latest Version for Windows 7 64bit or 32bit and Low-end PC #azmarifcode](https://ytcards.demolab.com/?id=gSrnYSvOICY&title=Download+and+Install+Node+js+Latest+Version+for+Windows+7+64bit+or+32bit+and+Low-end+PC+%23azmarifcode&lang=en&timestamp=1659181123&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=271 "Download and Install Node js Latest Version for Windows 7 64bit or 32bit and Low-end PC #azmarifcode")](https://www.youtube.com/watch?v=gSrnYSvOICY)
+
 <!-- END YOUTUBE-CARDS -->
 
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
